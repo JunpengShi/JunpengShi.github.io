@@ -1,6 +1,6 @@
 # JunpengShi.github.io
 
-#Junpeng Shi (史俊鹏), Ph.D.
+Junpeng Shi (史俊鹏), Ph.D.
 
 China Agricultural University (CAU), 
 
@@ -20,3 +20,6 @@ ORCID: https://orcid.org/0000-0002-7551-4888
 
 ResearchGate: https://www.researchgate.net/profile/Junpeng_Shi 
 
+RESEARCH INTERESTS
+1.	Comparative and population genomics in maize and other major crops
+2.	Genomics and Bioinformatics
