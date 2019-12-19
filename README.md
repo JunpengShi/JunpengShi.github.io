@@ -30,18 +30,20 @@ EDUCATION
 	
   2012.9~2017.6	Ph.D., Department of Crop Genetics and Bioinformatics, China Agricultural University, advisor: Prof. Lai, Jinsheng
   
-	2008.9~2012.6	BA, Department of Horticulture, China Agricultural University， advisor: Prof. Sui, Xiaolei
+  2008.9~2012.6	BA, Department of Horticulture, China Agricultural University， advisor: Prof. Sui, Xiaolei
 
 Working Experience
 
-	2017.9~Present	Postdoctoral researcher, Department of Crop Genetics and Bioinformatics & Department of Plant Science, China Agricultural University, advisor: Prof. Lai, Jinsheng & Prof. Yang, Shuhua
+  2017.9~Present	Postdoctoral researcher, Department of Crop Genetics and Bioinformatics & Department of Plant Science, China Agricultural University, advisor: Prof. Lai, Jinsheng & Prof. Yang, Shuhua
 
 AWARDS
-	National Scholarship for PhD candidates (Ministry of Education, 2015-2016)
-	First Class Scholarship for PhD candidates (CAU, 2014-2015 & 2016-2017)
+
+  National Scholarship for PhD candidates (Ministry of Education, 2015-2016)
+  First Class Scholarship for PhD candidates (CAU, 2014-2015 & 2016-2017)
 
 PUBLICATIONS (*co-first author)
-	I have published 10 SCI papers in leading journals, including 6 papers as first or co-first authors published in Nature Communications, Nature Genetics, PNAS, Molecular Plant, Current Opinion in Plant Biology and The Plant Journal:
+	
+I have published 10 SCI papers in leading journals, including 6 papers as first or co-first authors published in Nature Communications, Nature Genetics, PNAS, Molecular Plant, Current Opinion in Plant Biology and The Plant Journal:
   
 1.	Shi J, et al., Mapping the distal regulatory regions and their interacting genes underlying maize domestication and breeding. In submission.
 2.	Liu H*, Shi J*, Cai Z*, Huang Y*, Lv M, et al.: Evolution and domestication footprints uncovered from the genomes of coix. Molecular Plant, https://doi.org/10.1016/j.molp.2019.11.009.
@@ -56,8 +58,10 @@ PUBLICATIONS (*co-first author)
 11.	Zhang, M., Cao, Y., Wang, Z., Wang, Z. Q., Shi, J., Liang, X., ... & Jiang, C. A retrotransposon in an HKT1 family sodium transporter causes variation of leaf Na+ exclusion and salt tolerance in maize. New Phytologist 2018, 217(3), 1161-1176.
 
 PROFESSIONAL SERVICE
-	Invited reviewer for BMC Plant Biology, BMC Genomics, Journal of Integrative Plant Biology (JIPB), Genomics, Proteomics & Bioinformatics (GPB) and Molecular Breeding
-	Assisted reviewer for Nature Communications, Molecular Plant, BMC Biology, Scientific Reports and The Plant Journal
+
+Invited reviewer for BMC Plant Biology, BMC Genomics, Journal of Integrative Plant Biology (JIPB), Genomics, Proteomics & Bioinformatics (GPB) and Molecular Breeding
+
+Assisted reviewer for Nature Communications, Molecular Plant, BMC Biology, Scientific Reports and The Plant Journal
 
 FUNDINGS
 1.	National Science Foundation of China (31901596, 250,000 yuan, 2020.1-2022.12, PI)
