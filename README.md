@@ -22,9 +22,9 @@ ResearchGate: https://www.researchgate.net/profile/Junpeng_Shi
 
 RESEARCH INTERESTS
 
-1.	Comparative and population genomics in maize and other major crops
+1.Comparative and population genomics in maize and other major crops
 
-2.	Genomics and Bioinformatics
+2.Genomics and Bioinformatics
 
 EDUCATION
 	
